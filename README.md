@@ -386,8 +386,8 @@ O estudo de caso apresentado, que serviu como exemplo prático, envolvendo a *Av
 
 **Referêcias:**
 
-Boeing, Geoff. Modeling and Analyzing Urban Networks and Amenities with OSMnx, 2025. Geographical Analysis, published online ahead of print. [doi:10.1111/gean.70009.
-](https://doi.org/10.1111/gean.70009)
+Boeing, Geoff. Modeling and Analyzing Urban Networks and Amenities with OSMnx, 2025. Geographical Analysis, published online ahead of print. [doi:10.1111/gean.70009.](https://doi.org/10.1111/gean.70009)
+
 Folium. Quickstart. Folium Documentation, 2025. Disponível em: https://python-visualization.github.io/folium/latest/.
 
 GeoPandas. GeoPandas Documentation, 2025. Disponível em: https://geopandas.org/en/stable/.
