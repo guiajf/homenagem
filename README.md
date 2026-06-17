@@ -18,10 +18,6 @@ O código desenvolvido foi desenvolvido para identificar todos os trechos dessas
 
 Carregamos as seguintes bibliotecas:
 
-
-
-
-
 - **osmnx**: biblioteca especializada para modelagem de redes urbanas
 a partir de dados do *OpenStreetMap*. Permite baixar grafos viários
 reais e calcular rotas. Utilizada para obter a rede de ruas de
@@ -61,7 +57,7 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-### Definimos os limites geográficos
+### Definimos a área de interesse
 
 
 ```python
