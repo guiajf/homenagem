@@ -384,6 +384,8 @@ Demonstramos de forma didática como realizar o mapeamento e análise de vias ur
 O estudo de caso apresentado, que serviu como exemplo prático, envolvendo a *Avenida Rei Pelé* e *Rua Edson Arantes do Nascimento*, em Três Corações/MG, permitiu a identifição de 74 e 5 segmentos respectivamente, com comprimentos totais de 11,8 km e 576 metros, respectivamente. A inclusão da **Casa Pelé** como ponto de interesse demonstra a flexibilidade da ferramenta para adicionar marcadores personalizados.
 
 
+**Referêcias:**
+
 Boeing, Geoff. Modeling and Analyzing Urban Networks and Amenities with OSMnx, 2025. Geographical Analysis, published online ahead of print. [doi:10.1111/gean.70009.
 ](https://doi.org/10.1111/gean.70009)
 Folium. Quickstart. Folium Documentation, 2025. Disponível em: https://python-visualization.github.io/folium/latest/.
