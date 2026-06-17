@@ -1,4 +1,4 @@
-# Mapeamento e análise de vias ubanas com OSMnx
+# Mapeamento e análise de vias urbanas com OSMnx
 
 ### Introdução
 
