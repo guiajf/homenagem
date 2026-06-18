@@ -6,7 +6,7 @@ Em Três Corações/MG, há duas vias urbanas em homenagem ao seu filho mais ilu
 
 Neste projeto, desenvolvemos um código em **Python**, com o auxílio do pacote **Osmnx**, para mensurar a extensão e identificar outros atributos das duas vias, assim como destacar os traçados delas em um mapa interativo no **Folium**.
 
-Em primeiro lugar extraimos todos os elementos viários da região de interesse utilizando a função *ox.features_from_place()*. Depois, convertemos os dados para o sistema de projeção específico para a região do Brasil. Em seguida, realizamos uma busca para retornar os dados necessários para realizar a visualização geográfica e efetuar cálculos métricos. Finalmente, unificamos os segmentos das vias e definimos os padrões gráficos.
+Em primeiro lugar extraimos todos os elementos viários da região de interesse utilizando a função *ox.features_from_place()*. Depois, convertemos os dados para o sistema de projeção específico para o Brasil. Em seguida, realizamos uma busca para retornar os dados necessários para realizar a visualização geográfica e efetuar cálculos métricos. Finalmente, unificamos os segmentos das vias e definimos os padrões gráficos.
 
 ### Objetivo
 
