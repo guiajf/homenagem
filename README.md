@@ -2,7 +2,7 @@
 
 ### Introdução
 
-Em Três Corações/MG, há duas vias urbanas em homenagem ao seu filho mais ilustre, além de uma praça controversa: a *Avenida Rei Pelé* e a *Rua Edson Arantes do Nascimento*, onde está situada a [*Casa Pelé*](https://ge.globo.com/mg/sul-de-minas/futebol/noticia/2022/12/29/casa-pele-resgata-memoria-e-mistica-do-local-em-que-o-rei-viveu-ate-os-tres-anos-no-sul-de-minas.ghtml), reconstituição histórica do local onde o craque nasceu. Uma homenageia o mito; a outra, o homem.
+Em Três Corações/MG, há duas vias urbanas em homenagem ao seu filho mais ilustre: a *Avenida Rei Pelé* e a *Rua Edson Arantes do Nascimento*, onde está situada a [*Casa Pelé*](https://ge.globo.com/mg/sul-de-minas/futebol/noticia/2022/12/29/casa-pele-resgata-memoria-e-mistica-do-local-em-que-o-rei-viveu-ate-os-tres-anos-no-sul-de-minas.ghtml), reconstituição histórica do local onde o craque nasceu. Uma homenageia o mito; a outra, o homem.
 
 Neste projeto, desenvolvemos um código em **Python**, com o auxílio do pacote **Osmnx**, para mensurar a extensão e identificar outros atributos das duas vias, assim como destacar os traçados delas em um mapa interativo no **Folium**.
 
